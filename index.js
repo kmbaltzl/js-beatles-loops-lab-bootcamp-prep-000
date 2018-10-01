@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
       facts[factsNum] += "!!!";
       factsNum++;
   }
-  return factsNum
+  return facts
 }
 
 function iLoveTheBeatles(number) {
